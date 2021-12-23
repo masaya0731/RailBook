@@ -7,7 +7,7 @@ DMM　WEBCAMP チーム開発 ECサイト制作課題
 ## 設計
 - [要件定義書](https://github.com/webcamp-nisaisa/webcamp-naganocake/files/7592692/default.pdf)
 - [ER図](https://github.com/team-2pair/nagano_cake/files/7766027/_ER._team2.drawio.pdf)
-- [テーブル定義書](https://github.com/masaya0731/railbook/files/7766245/DWCCOMMIT_._._team2.pdf)
+- [テーブル定義書](https://github.com/files/7766245/DWCCOMMIT_._._team2.pdf)
 - [アプリケーション詳細設計](https://docs.google.com/spreadsheets/d/1tmiKrUWUC0DPtmliielTayTdEfwygHBz8vQ-1reKmrU)
 
 ## 実装した機能
